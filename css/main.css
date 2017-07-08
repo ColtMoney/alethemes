@@ -1,0 +1,14 @@
+.nobreak {
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  -o-column-break-inside: avoid;
+  -ms-column-break-inside: avoid;
+  display: table;
+}
+/* Your Custom code here */
+div.example {
+  color: #000;
+  height: auto;
+  max-width: 200px;
+  border: 1px solid #fff;
+}
